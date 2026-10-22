@@ -1,10 +1,3 @@
-<title>Fretwise privacy policy</title>
-<style>
-body { font: 16px/1.6 system-ui, sans-serif; max-width: 640px; margin: 40px auto; padding: 0 16px; color: #1A1F1B; background: #ECEEE9; }
-h1 { font-size: 26px; }
-</style>
-</head>
-<body>
 <h1>Fretwise privacy policy</h1>
 <p>Last updated: 14 October 2026</p>
 <p>Fretwise is a fretboard training app. It does not collect, store on a server, share or sell any personal data.</p>
